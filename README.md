@@ -1,2 +1,2 @@
-# Kirill Klimov
-My first site
+# Кирилл Климов
+Мои домашние задания
